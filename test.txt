@@ -1,4 +1,0 @@
-$Id$
-$Author$
-$Date$
-$Rev$
